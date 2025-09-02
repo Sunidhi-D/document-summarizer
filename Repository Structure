@@ -1,0 +1,6 @@
+text-summarizer/
+│
+├─ app.py                  # Streamlit app
+├─ README.md               # Project description 
+├─ requirements.txt        # Python dependencies
+└─ local_distilbart_model/ # Hugging Face DistilBART model files (optional to include, or instruct users to download)
