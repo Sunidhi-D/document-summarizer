@@ -1,0 +1,8 @@
+streamlit
+wikipedia
+nltk
+scikit-learn
+transformers
+evaluate
+torch
+numpy
